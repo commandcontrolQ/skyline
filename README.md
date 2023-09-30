@@ -1,2 +1,2 @@
-# neptune10
-Modified version of Windows 10. NOT AFFILIATED WITH MICROSOFT.
+# Windows codename Neptune
+Heavily modified version of Windows 10 Home. NOT AFFILIATED WITH MICROSOFT.
