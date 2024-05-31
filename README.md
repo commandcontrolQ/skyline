@@ -1,30 +1,33 @@
-# Windows codename Neptune
-Windows codename Neptune is a modified version of Windows 10 Pro (22H2).
+# Windows codename Skyline
+Windows codename Skyline is a modified version of Windows 10 IoT Enterprise LTSC 2021.
 
 # Features
-- Replaced the Calculator UWP app with the legacy Windows 7 version (credits to Winaero Tweaker)
-- Brought back the original Windows 7 games (credits to Winaero Tweaker) as well as all 4 Windows Entertainment Packs (courtesy of [this archive.org link](https://archive.org/details/wep_20200803)). The 4 WEP games are located in `%USERPROFILE%\Saved Games`.
+- Brought back the original Windows 7 games (credits to Winaero Tweaker) and all 4 Windows Entertainment Packs (courtesy of [this archive.org link](https://archive.org/details/wep_20200803)). The 4 WEP games are located in `%USERPROFILE%\Saved Games`.
   - Bundled in `%SYSTEMDRIVE%\Windows` is WineVDM 0.9.0, which allows the execution of 16-bit programs. Credits to [otya128](https://github.com/otya128/).
-- Replaced the Start Menu using Open-Shell
 - Bundles programs into the image using NTLite. These programs include:
-  - 7-Zip 23.01
-  - VLC media player 3.0.18
-  - Firefox 110
-  - Free Download Manager 6.19
-  - Winaero Tweaker 1.55
-  - Oracle VM VirtualBox 6.1.46
-  - UltraISO 9.7.6 (to register the program see register-ultraiso.txt)
-  - Rainmeter
-- Adds standalone programs into `%USERPROFILE%\Desktop\Other`. These include:
+  - 7-Zip
+  - Transmission
+  - LibreOffice
+  - OpenVPN
+  - PuTTY
   - HWiNFO
-  - Rufus 4.1
-  - CrystalDisk Mark 8
   - Resource Hacker
-- Adds installers which can be run later into `%SYSTEMDRIVE%\install`. These include:
-  - MiniTool Partition Wizard 12 (to register the program see register-mtpw12.txt)
-  - Python 3.12.0
-  - Strawberry Perl
-  - Windows Live Messenger 8.5 (Escargot patch is located in the same folder)
+  - Process Hacker
+  - IrfanView (32-bit)
+  - HWiNFO
+  - TreeSize Free
+  - FileZilla
+  - CrystalDisk Info
+  - VLC media player
+  - Pale Moon
+  - QuiteRSS
+  - QBittorrent
+  - Free Download Manager
+  - Winaero Tweaker
+- Adds standalone programs into `%USERPROFILE%\Desktop\Other`. These include:
+  - Rufus 4.1
+  - Visual C++ all-in-one redistributable
+  - 
 
 # Disclaimers
 - This software is not affiliated with Microsoft.
